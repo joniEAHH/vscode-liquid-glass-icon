@@ -15,6 +15,8 @@ This project provides an unofficial replacement icon for Visual Studio Code. The
 ## Included Formats
 
 - **PNG** - High-resolution raster format suitable for all platforms
+- **ICO** - Windows icon format
+- **ICNS** - macOS icon format
 
 ## Installation
 
